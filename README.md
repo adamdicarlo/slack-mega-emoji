@@ -1,6 +1,6 @@
-# starter-slapp-app
+# Mega Emoji Slack App
 
-This repository is meant as an example and starting point for building a Slack app on [Beep Boop][bb].  It's written in [node.js](), uses the [Slapp][slapp] library, and takes advantage of the [Slack Events API][slack-events-api].
+Based on [BeepBoop][bb] [starter Slapp app][ssa]!
 
 ## Setup Instructions
 
@@ -28,6 +28,7 @@ Send `@slappbot` a Direct Message of `help` to see what it can do.
 ![Help](https://cloud.githubusercontent.com/assets/367275/19364707/7a4f8964-914c-11e6-99cd-d4cd65c9061a.png)
 
 [bb]: https://beepboophq.com
+[ssa]: https://github.com/BeepBoopHQ/starter-slapp-app
 [slapp]: https://github.com/BeepBoopHQ/slapp
 [slack-events-api]: https://api.slack.com/events-api
 [presence-polyfill]: https://github.com/BeepBoopHQ/beepboop-slapp-presence-polyfill
