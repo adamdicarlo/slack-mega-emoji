@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/adamdicarlo/slack-mega-emoji#readme",
   "dependencies": {
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "nodemon": "^1.11.0",
     "slapp": "^2.2.1",
     "slapp-context-beepboop": "^1.4.0",
